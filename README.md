@@ -1,2 +1,2 @@
 # machine-learning
-# Algorithmic Trading Learning
+# Algorithmic Trading
